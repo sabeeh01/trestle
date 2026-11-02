@@ -1,3 +1,4 @@
+```mermaid
 ---
 title: "TCP Packet"
 ---
@@ -19,3 +20,4 @@ packet
 144-159: "Urgent Pointer"
 160-191: "(Options and Padding)"
 192-255: "Data (variable length)"
+```
